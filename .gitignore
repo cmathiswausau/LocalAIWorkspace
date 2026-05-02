@@ -1,0 +1,49 @@
+# Build results
+
+bin/
+obj/
+
+# Visual Studio
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / VS Code (optional)
+
+.idea/
+.vscode/
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# NuGet
+
+*.nupkg
+packages/
+*.snupkg
+
+# Environment files
+
+.env
+
+# Publish output
+
+publish/
+
+# Test results
+
+TestResults/
+
+# Resharper
+
+_ReSharper*/
+*.DotSettings.user

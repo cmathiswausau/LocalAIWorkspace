@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocalAIWorkspace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bc65a125e668c6b0623b2b67e9a07ad49cd2a5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LocalAIWorkspace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocalAIWorkspace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
